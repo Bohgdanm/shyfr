@@ -11,5 +11,9 @@
   "license": "ISC",
   "dependencies": {
     "crypto-js": "^4.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bohgdanm/shyfr.git"
   }
 }
