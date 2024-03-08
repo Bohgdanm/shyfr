@@ -1,13 +1,17 @@
 {
   "name": "project-shyfr",
   "version": "1.0.0",
-  "description": "",
+  "description": "shyfr text",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "encryption",
+    "crypto-js",
+    "security"
+  ],
+  "author": "bodikm21",
   "license": "ISC",
   "dependencies": {
     "crypto-js": "^4.2.0"
